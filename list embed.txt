@@ -1,0 +1,11 @@
+1. Kependudukan berdasarkan jenis kelamin & status
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~FajrulHQ/9.embed"></iframe>
+
+2. Kependudukan berdasarkan migrasi
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~FajrulHQ/11.embed"></iframe>
+
+3. Peta Luas Daerah & Populasi Bayat
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~FajrulHQ/7.embed"></iframe>
+
+4. Kependudukan kategori lainnya
+https://raw.githubusercontent.com/FajrulHQ/Visualisasi_KKN/master/penduduk_kategori.json (pakee skema vega editor)
