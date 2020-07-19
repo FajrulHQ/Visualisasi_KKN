@@ -11,7 +11,7 @@
   "mark": "bar",
   "encoding": {
     "color": {
-      "type": "ordinal",
+      "type": "nominal",
       "field": "Keterangan",
       "legend": null
     },
@@ -36,11 +36,11 @@
   },
   "height": 200,
   "selection": {
-    "selector006": {
+    "selector004": {
       "type": "interval",
       "bind": "scales"
     },
-    "selector005": {
+    "selector003": {
       "type": "multi"
     }
   },
