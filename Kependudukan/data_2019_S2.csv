@@ -1,0 +1,427 @@
+﻿Kode,Tahun,Data,Kode Kategori,Kategori,Keterangan,N,Satuan
+1,2019,Kependudukan,1.1,Jenis Kelamin,Laki-laki,1341,Orang
+1,2019,Kependudukan,1.1,Jenis Kelamin,Perempuan,1325,Orang
+1,2019,Kependudukan,1.2,Kepala Kaluarga,Kepala Kaluarga,838,Orang
+1,2019,Kependudukan,1.3,Kewarganegaraan WNI,Laki-laki,1341,Orang
+1,2019,Kependudukan,1.3,Kewarganegaraan WNI,Perempuan,1325,Orang
+1,2019,Kependudukan,1.4,Agama,Islam,2467,Orang
+1,2019,Kependudukan,1.4,Agama,Kristen,62,Orang
+1,2019,Kependudukan,1.4,Agama,Katolik,133,Orang
+1,2019,Kependudukan,1.4,Agama,Hindu,3,Orang
+1,2019,Kependudukan,1.4,Agama,Budha,,Orang
+1,2019,Kependudukan,1.5,Kelompok Pendidikan,00-04 tahun,170,Orang
+1,2019,Kependudukan,1.5,Kelompok Pendidikan,05-09 tahun,190,Orang
+1,2019,Kependudukan,1.5,Kelompok Pendidikan,10-14 tahun,187,Orang
+1,2019,Kependudukan,1.5,Kelompok Pendidikan,15-19 tahun,183,Orang
+1,2019,Kependudukan,1.5,Kelompok Pendidikan,19 tahu keatas,1936,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,20-24 tahun,188,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,25-29 tahun,189,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,30-34 tahun,195,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,35-39 tahun,197,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,40-54 tahun,503,Orang
+1,2019,Kependudukan,1.6,Kelompok Tenaga Kerja,55 tahun keatas,664,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Taman Kanak-kanak,237,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sekolah Dasar,722,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,SMP/SLTP,426,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,SMA/SLTA,641,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Akademi (DI-D3),26,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sarjana (S1-S3),54,Orang
+1,2019,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sekolah Luar Biasa,,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,PNS,16,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,ABRI,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Karyawan Swasta,195,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Wiraswasta/Pedagang,100,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Tani,9,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pertukangan,5,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Buruh Tani,19,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pensiunan,15,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Nelayan,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pemulung,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,BUMN,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Honorer,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Guru,5,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Bidan,1,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Perawat,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pendeta,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Seniman,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Mekanik,2,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Kepala Desa,1,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Perangkat Desa,6,Orang
+1,2019,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Lainnya,44,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Netra,4,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Rungu,3,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Grahita,,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Daksa,3,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Susila,,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Wisma,1,Orang
+1,2019,Kependudukan,1.9,Penyandang Tuna,Tuna Wicara,3,Orang
+1,2019,Kependudukan,1.11,Status Pernikahan,Nikah,9,Orang
+1,2019,Kependudukan,1.11,Status Pernikahan,Talak,2,Orang
+1,2019,Kependudukan,1.11,Status Pernikahan,Cerai,,Orang
+1,2019,Kependudukan,1.11,Status Pernikahan,Rujuk,,Orang
+2,2019,Mobilitas penduduk,2.1,Lahir,Laki-laki,10,Orang
+2,2019,Mobilitas penduduk,2.1,Lahir,Perempuan,3,Orang
+2,2019,Mobilitas penduduk,2.2,Mati,Laki-laki,4,Orang
+2,2019,Mobilitas penduduk,2.2,Mati,Perempuan,13,Orang
+2,2019,Mobilitas penduduk,2.3,Datang,Laki-laki,6,Orang
+2,2019,Mobilitas penduduk,2.3,Datang,Perempuan,8,Orang
+2,2019,Mobilitas penduduk,2.4,Pindah,Laki-laki,10,Orang
+2,2019,Mobilitas penduduk,2.4,Pindah,Perempuan,9,Orang
+3,2019,Pembinaan Rukun,3.1,,Rt,19,Unit
+3,2019,Pembinaan Rukun,3.1,,Rw,6,Unit
+4,2019,Pelayanan Masyarakat,4.1,,Pelayanan Umum,160,Orang
+4,2019,Pelayanan Masyarakat,4.1,,Pelayanan Kependudukan,69,Orang
+4,2019,Pelayanan Masyarakat,4.1,,Pelayanan Legalisasi,,Orang
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Sisa Anggaran tahun lalu,8106217,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Pendapatan Asli Desa,50700000,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,"ADD, Pusat, Provinsi, Kab. Dan Hibah",23790870931,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Pemerintah Desa,423062931,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Modal,,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Sarana Prasarana Pemb.,1815973075,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Bidang Pembinaan Masyarakt,96300000,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Bidang Pemberd Masyarakat,80601925,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.1,Keuangan,Bidang Tak Terduga,8106217,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Tanah Kas Desa dan Bengkok,39500000,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,UED-SP dan Batik Kebon Indah,1200000,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Pungutan,,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Swadaya Masyarakat,,Rupiah
+5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Lain-lain,,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Pusat,,1065675000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Propinsi,,55000000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Kabupaten dan Hibah,,1231696000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Hasil Pajak dan Retribusi Kab,,26716931,Rupiah
+7,2019,Bidang Pembangunan,7.1,Agama,Masjid,8,Unit
+7,2019,Bidang Pembangunan,7.1,Agama,Mushola,1,Unit
+7,2019,Bidang Pembangunan,7.1,Agama,Gereja,1,Unit
+7,2019,Bidang Pembangunan,7.1,Agama,Vihara,,Unit
+7,2019,Bidang Pembangunan,7.1,Agama,Pura,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Umum Pemerintah,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Swasta,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Kusta,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Mata,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Jiwa,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Sanatorium,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Jantung,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Beralin,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Poliklinik/Balai Pelayanan Masyarakat,1,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Laboratorium,,Unit
+7,2019,Bidang Pembangunan,7.2,Kesehatan,Apotek/Depot Obat,,Unit
+8,2019,Pendidikan Umum,8.1,TK,Gedung,3,Unit
+8,2019,Pendidikan Umum,8.1,TK,Guru,9,Orang
+8,2019,Pendidikan Umum,8.1,TK,Murid,65,Orang
+8,2019,Pendidikan Umum,8.2,SD/MI,Gedung,2,Unit
+8,2019,Pendidikan Umum,8.2,SD/MI,Guru,22,Orang
+8,2019,Pendidikan Umum,8.2,SD/MI,Murid,163,Orang
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Sepak Bola,1,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Basket,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Voly,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Bulutangkis,2,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Tenis Meja,3,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Tenis,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Atletik,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Pacuan Kuda,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Golf,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Lapangan Softbal,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Kolam Renang,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Arena Bowling,,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Fitnes/Sanggar Senam,2,Unit
+9,2019,Sarana Prasarana,9.1,Olahraga,Rumah Bilyard,,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Sarana Krida,,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gelanggang Remaja,1,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gedung Kesenian,,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gedung Bioskop,,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Diskotik/Klub Malam,,Unit
+9,2019,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gd. Sandiwara/ Teater,,Unit
+9,2019,Sarana Prasarana,9.3,Sosial,Panti Asuhan,,Unit
+9,2019,Sarana Prasarana,9.3,Sosial,Panti Wreda,,Unit
+9,2019,Sarana Prasarana,9.3,Sosial,Panti Laras,,Unit
+9,2019,Sarana Prasarana,9.3,Sosial,Panti Pijat Jompo,,Unit
+9,2019,Sarana Prasarana,9.3,Sosial,Rumah Jompo,,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Dusun,8,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Desa,3,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Ekonomi,2,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Produksi,1,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Kabupaten,,Unit
+9,2019,Sarana Prasarana,9.4,Jalan,Propinsi,,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Jembatan,2,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Stasiun Kereta Api,,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Terminal,,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Udara,,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Laut,,Unit
+9,2019,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Sungai,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Kantor Postel,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Kantor Pos Pembantu,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Pemancar Radio,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Stasiun Rellay TV,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Orari,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Krap,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Intercom,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,TV Umum,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Telepon Umum,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Pesawat Telepon/ HP,357,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Pesawat TV,232,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Pesawat Radio,50,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Decorder TV Swasta,,Unit
+9,2019,Sarana Prasarana,9.6,Telekomunikasi,Antena Parabola,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Sepeda,629,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Dokar/Delman,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Gerobak,8,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Kendaraan Roda 3,1,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Sepeda Motor,295,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Becak,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Oplet,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Taksi,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Mobil Dinas,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Mobil Pribadi,14,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Bus Kota,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Bus Umum,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Truk,2,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Perahu Layar,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Perahu Dayung,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Perahu Motor,,Unit
+9,2019,Sarana Prasarana,9.7,Alat Transportasi,Lain-lain,,Unit
+9,2019,Sarana Prasarana,9.8,Industri,Besar,,Unit
+9,2019,Sarana Prasarana,9.8,Industri,Sedang,,Unit
+9,2019,Sarana Prasarana,9.8,Industri,Kecil,1,Unit
+9,2019,Sarana Prasarana,9.8,Industri,Rumah Tangga,132,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Tempat Rekreasi,2,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Hotel,,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Motel,,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Losmen,,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Restauran,,Unit
+9,2019,Sarana Prasarana,9.9,Pariwisata,Musium Sejarah,,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Waduk/Cekdam,,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Saluran Irigasi,3,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Gorong-gorong,17,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Pompa Air,4,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Pembagi Air,3,Unit
+9,2019,Sarana Prasarana,9.11,Pengairan,Kincir Air,,Unit
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Padi,407640,Ha
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Jagung,40000,Ha
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Ketela Pohon,50000,Ha
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Ketela Rambat,,Ha
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Kacang Tanah,,Ha
+10,2019,Luas Pertanian,10.1,Padi dan Palawija,Kedelai,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Kubis,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Kentang,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Sawi,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Tomat,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Wortel,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Kacang Panjang,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Terong,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Buncis,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Lombok,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Bawang Merah,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Bawang Putih,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Ketimun,,Ha
+10,2019,Luas Pertanian,10.2,Sayur,Lain-lain,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Pisang,2,Ha
+10,2019,Luas Pertanian,10.3,Buah,Pepaya,2,Ha
+10,2019,Luas Pertanian,10.3,Buah,Jeruk,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Semangka,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Mangga,5,Ha
+10,2019,Luas Pertanian,10.3,Buah,Durian,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Duku,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Jambu,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Rambutan,1,Ha
+10,2019,Luas Pertanian,10.3,Buah,Sirsak,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Apel,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Anggur,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Salak,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Blimbing,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Kelengkeng,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Kendondong,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Melon,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Alpokat,,Ha
+10,2019,Luas Pertanian,10.3,Buah,Lain-lain,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Kelapa,4,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Kopi,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Teh,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Coklat,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Karet,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Cengkeh,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Tembakau,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Panili,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Lada,,Ha
+10,2019,Luas Pertanian,10.4,Perkebunan,Lain-lain,,Ha
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Padi,210,Ton
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Jagung,22,Ton
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Ketela Pohon,20,Ton
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Ketela Rambat,,Ton
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Kacang Tanah,,Ton
+11,2019,Hasil Petanian,11.1,Padi dan Palawija,Kedelai,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Kubis,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Kentang,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Sawi,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Tomat,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Wortel,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Kacang Panjang,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Terong,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Buncis,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Lombok,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Bawang Merah,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Bawang Putih,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Ketimun,,Ton
+11,2019,Hasil Petanian,11.2,Sayur,Lain-lain,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Pisang,4,Ton
+11,2019,Hasil Petanian,11.3,Buah,Pepaya,4,Ton
+11,2019,Hasil Petanian,11.3,Buah,Jeruk,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Semangka,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Mangga,10,Ton
+11,2019,Hasil Petanian,11.3,Buah,Durian,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Duku,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Jambu,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Rambutan,3,Ton
+11,2019,Hasil Petanian,11.3,Buah,Sirsak,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Apel,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Anggur,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Salak,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Blimbing,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Kelengkeng,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Kendondong,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Melon,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Alpokat,,Ton
+11,2019,Hasil Petanian,11.3,Buah,Lain-lain,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Kelapa,6,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Kopi,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Teh,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Coklat,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Karet,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Cengkeh,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Tembakau,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Panili,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Lada,,Ton
+11,2019,Hasil Petanian,11.4,Perkebunan,Lain-lain,,Ton
+12,2019,Taman dan Lingkungan Hidup,12.1,Taman,Luas Taman,,Ha
+12,2019,Taman dan Lingkungan Hidup,12.1,Taman,Banyak Taman,,Ha
+12,2019,Taman dan Lingkungan Hidup,12.1,Taman,Jalur Hijau,,Ha
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Lokasi TPS,,Unit
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Lokasi TPA,,Ha
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Volume Sampah,,m3
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Sarana Angkutan Sampah,,Unit
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Personil,,Orang
+12,2019,Taman dan Lingkungan Hidup,12.2,Kebersihan,Sanitasi,,Unit
+13,2019,Luas Perikanan,13.1,Perikanan,Tambak,,Ha
+13,2019,Luas Perikanan,13.1,Perikanan,Empang,,Ha
+13,2019,Luas Perikanan,13.1,Perikanan,Kolam,,Ha
+13,2019,Luas Perikanan,13.1,Perikanan,Danau,,Ha
+13,2019,Luas Perikanan,13.1,Perikanan,Waduk/Cekdam,,Ha
+13,2019,Luas Perikanan,13.1,Perikanan,Laut,,Ha
+14,2019,Hasil Perikanan,14.1,Perikanan,Tambak,,Ton
+14,2019,Hasil Perikanan,14.1,Perikanan,Empang,,Ton
+14,2019,Hasil Perikanan,14.1,Perikanan,Kolam,,Ton
+14,2019,Hasil Perikanan,14.1,Perikanan,Danau,,Ton
+14,2019,Hasil Perikanan,14.1,Perikanan,Waduk/Cekdam,,Ton
+14,2019,Hasil Perikanan,14.1,Perikanan,Laut,,Ton
+15,2019,Peternakan,15.1,Ternak,Ayam Kampung,1875,Ekor
+15,2019,Peternakan,15.1,Ternak,Ayam Ras,,Ekor
+15,2019,Peternakan,15.1,Ternak,Itik,1200,Ekor
+15,2019,Peternakan,15.1,Ternak,Kambing,135,Ekor
+15,2019,Peternakan,15.1,Ternak,Domba,,Ekor
+15,2019,Peternakan,15.1,Ternak,Sapi Perah,,Ekor
+15,2019,Peternakan,15.1,Ternak,Sapi Biasa,125,Ekor
+15,2019,Peternakan,15.1,Ternak,Kerbau,,Ekor
+15,2019,Peternakan,15.1,Ternak,Kuda,,Ekor
+15,2019,Peternakan,15.1,Ternak,Babi,,Ekor
+15,2019,Peternakan,15.1,Ternak,Buaya,,Ekor
+15,2019,Peternakan,15.1,Ternak,Lain-lain,,Ekor
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Jati,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Miranti,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Eboni,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Besi,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Kamper,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Cendana,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Albasia,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Akasia,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Aoni,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Cemra,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Lamtoro Gung,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Enau,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Randu,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Kayu Rotan,,Ha
+16,2019,Kehutanan,16.1,Jenis Tanaman,Lain-lain,,Ha
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Pasir,,m3
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Pasir Kuarsa,,m4
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Apung,,m5
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Kali,,m6
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Bangunan,,m7
+17,2019,Pertambangan Bahan Galian,17.1,Jenis Tambang,Lain-lain,,m8
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Pasar Lingkungan,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Pasar Kota,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Pasar Regional,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Pasar Induk,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Toko,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Warung,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Kaki Lima,,Unit
+18,2019,Perdagangan Jasa,18.1,Perdagangan,Supermarket,,Unit
+18,2019,Perdagangan Jasa,18.2,Jasa,Bank,,Unit
+18,2019,Perdagangan Jasa,18.2,Jasa,Travel,,Unit
+18,2019,Perdagangan Jasa,18.2,Jasa,Notaris,,Unit
+18,2019,Perdagangan Jasa,18.2,Jasa,Pengacara,,Unit
+18,2019,Perdagangan Jasa,18.2,Jasa,Psikolog,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Koperasi Simpan Pinjam,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Koperasi Unit Desa,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Lumbung Desa,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Kredit Candak Kulak,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Badan kredit,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Usaha Ekonomi Desa,,Unit
+18,2019,Perdagangan Jasa,18.3,Koperasi,Lain-lain,,Unit
+19,2019,Perumahan,19.1,Perumahan,Rumah Permanen,625,Unit
+19,2019,Perumahan,19.1,Perumahan,Rumah Semi Permanen,175,Unit
+19,2019,Perumahan,19.1,Perumahan,Rumah Non Permanen,89,Unit
+19,2019,Perumahan,19.1,Pemukiman,BTN,,Unit
+19,2019,Perumahan,19.1,Pemukiman,Real Estate,,Unit
+19,2019,Perumahan,19.1,Pemukiman,PERUMNAS,,Unit
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Sepakbola,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Basket,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Volly,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Bulutangkis,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Tenis Meja,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Atletik,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Tinju,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Pencak Silat,1,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Karate,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Tenis Meja,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Renang,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Bowling,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Fitnes/Sanggar Senam,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Bilyard,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Golf,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Sepak Takraw,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Yudo,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Gulat,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Kempo,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Pecinta Alam,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Jantung Sehat,,Kelompok
+20,2019,Kelompok Masyarakat,20.1,Olahraga,Sepatu Roda,,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Paduan Suara,,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Orkes Melayu,,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kesenian Daerah,3,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Band,,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kdondong,,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kosidah,4,Kelompok
+20,2019,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Wayang,,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,Pramuka,,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,Karang Taruna,24,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,Panti Laras,,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,LSM,,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,PKK,34,Kelompok
+20,2019,Kelompok Masyarakat,20.3,Masyarakat,Dasa Wisma,,Kelompok
+21,2019,Pemilihan Umum,21.1,Jumlah Pemilih,,2151,Orang
+21,2019,Pemilihan Umum,21.2,Jumlah TPS,,10,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Kebangkitan Bangsa,202,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Gerindra,114,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Demokrasi Indonesia Perjuangan,711,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Golongan Karya,12,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Nasdem,4,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Garuda,2,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Berkarya,9,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Keadilan Sejahtera,114,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Parati Perindo,1,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Persatuan Pembangunan,2,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Solidaritas Indonesia,5,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Amanat Nasional,34,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Hanura,,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Demokrat,201,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Bulan Bintang,1,Orang
+21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Keadilan dan Persatuan Indonesia,,Orang
