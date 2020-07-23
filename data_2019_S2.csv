@@ -86,10 +86,10 @@
 5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Pungutan,,Rupiah
 5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Swadaya Masyarakat,,Rupiah
 5,2019,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Lain-lain,,Rupiah
-6,2019,Bantuan Pemerintah,6.1,Pemerintah Pusat,,1065675000,Rupiah
-6,2019,Bantuan Pemerintah,6.1,Pemerintah Propinsi,,55000000,Rupiah
-6,2019,Bantuan Pemerintah,6.1,Pemerintah Kabupaten dan Hibah,,1231696000,Rupiah
-6,2019,Bantuan Pemerintah,6.1,Hasil Pajak dan Retribusi Kab,,26716931,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Pusat,Pemerintah Pusat,1065675000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Propinsi,Pemerintah Propinsi,55000000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Pemerintah Kabupaten dan Hibah,Pemerintah Kabupaten dan Hibah,1231696000,Rupiah
+6,2019,Bantuan Pemerintah,6.1,Hasil Pajak dan Retribusi Kab,Hasil Pajak dan Retribusi Kab,26716931,Rupiah
 7,2019,Bidang Pembangunan,7.1,Agama,Masjid,8,Unit
 7,2019,Bidang Pembangunan,7.1,Agama,Mushola,1,Unit
 7,2019,Bidang Pembangunan,7.1,Agama,Gereja,1,Unit
@@ -407,8 +407,8 @@
 20,2019,Kelompok Masyarakat,20.3,Masyarakat,LSM,,Kelompok
 20,2019,Kelompok Masyarakat,20.3,Masyarakat,PKK,34,Kelompok
 20,2019,Kelompok Masyarakat,20.3,Masyarakat,Dasa Wisma,,Kelompok
-21,2019,Pemilihan Umum,21.1,Jumlah Pemilih,,2151,Orang
-21,2019,Pemilihan Umum,21.2,Jumlah TPS,,10,Orang
+21,2019,Pemilihan Umum,21.1,Jumlah Pemilih,Jumlah Pemilih,2151,Orang
+21,2019,Pemilihan Umum,21.2,Jumlah TPS,Jumlah TPS,10,Orang
 21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Kebangkitan Bangsa,202,Orang
 21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Gerindra,114,Orang
 21,2019,Pemilihan Umum,21.3,Hasil Pemilihan Umum,Partai Demokrasi Indonesia Perjuangan,711,Orang
