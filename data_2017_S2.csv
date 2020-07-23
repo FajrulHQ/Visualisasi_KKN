@@ -1,0 +1,398 @@
+﻿Tahun,Kode,Data,Kode Kategori,Kategori,Keterangan,N,Satuan
+2017,1,Kependudukan,1.1,Jenis Kelamin,Laki-laki,1582,Orang
+2017,1,Kependudukan,1.1,Jenis Kelamin,Perempuan,1599,Orang
+2017,1,Kependudukan,1.2,Kepala Kaluarga,Kepala Kaluarga,971,Orang
+2017,1,Kependudukan,1.3,Kewarganegaraan WNI,Laki-laki,1582,Orang
+2017,1,Kependudukan,1.3,Kewarganegaraan WNI,Perempuan,1599,Orang
+2017,1,Kependudukan,1.4,Agama,Islam,2961,Orang
+2017,1,Kependudukan,1.4,Agama,Kristen,70,Orang
+2017,1,Kependudukan,1.4,Agama,Katolik,145,Orang
+2017,1,Kependudukan,1.4,Agama,Hindu,5,Orang
+2017,1,Kependudukan,1.4,Agama,Budha,,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,00-03 tahun,141,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,04-06 tahun,111,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,07-12 tahun,239,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,13-15 tahun,112,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,16-18 tahun,116,Orang
+2017,1,Kependudukan,1.5,Kelompok Pendidikan,19 tahu keatas,2420,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,10-14 tahun,182,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,15-19 tahun,195,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,20-26 tahun,284,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,27-40 tahun,855,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,41-56 tahun,386,Orang
+2017,1,Kependudukan,1.6,Kelompok Tenaga Kerja,57 tahun keatas,276,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Taman Kanak-kanak,93,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sekolah Dasar,811,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,SMP/SLTP,640,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,SMA/SLTA,602,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Akademi (DI-D3),35,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sarjana (S1-S3),8,Orang
+2017,1,Kependudukan,1.7,Penduduk menurut Tingkat Pendidikan,Sekolah Luar Biasa,3,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,PNS,10,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,ABRI,2,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Karyawan Swasta,48,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Wiraswasta/Pedagang,125,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Tani,195,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pertukangan,58,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Buruh Tani,254,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pensiunan,14,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Nelayan,,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Pemulung,2,Orang
+2017,1,Kependudukan,1.8,Penduduk menurut Mata Pencaharian,Jasa,4,Orang
+2017,1,Kependudukan,1.9,Penyandang Tuna,Tuna Netra,4,Orang
+2017,1,Kependudukan,1.9,Penyandang Tuna,Tuna Rungu,3,Orang
+2017,1,Kependudukan,1.9,Penyandang Tuna,Tuna Grahita,,Orang
+2017,1,Kependudukan,1.9,Penyandang Tuna,Tuna Daksa,3,Orang
+2017,1,Kependudukan,1.9,Penyandang Tuna,Tuna Susila,,Orang
+2017,1,Kependudukan,1.11,Status Pernikahan,Nikah,36,Orang
+2017,1,Kependudukan,1.11,Status Pernikahan,Talak,,Orang
+2017,1,Kependudukan,1.11,Status Pernikahan,Cerai,1,Orang
+2017,1,Kependudukan,1.11,Status Pernikahan,Rujuk,,Orang
+2017,2,Mobilitas penduduk,2.1,Lahir,Laki-laki,3,Orang
+2017,2,Mobilitas penduduk,2.1,Lahir,Perempuan,8,Orang
+2017,2,Mobilitas penduduk,2.2,Mati,Laki-laki,5,Orang
+2017,2,Mobilitas penduduk,2.2,Mati,Perempuan,4,Orang
+2017,2,Mobilitas penduduk,2.3,Datang,Laki-laki,2,Orang
+2017,2,Mobilitas penduduk,2.3,Datang,Perempuan,1,Orang
+2017,2,Mobilitas penduduk,2.4,Pindah,Laki-laki,3,Orang
+2017,2,Mobilitas penduduk,2.4,Pindah,Perempuan,2,Orang
+2017,3,Pembinaan Rukun,3.1,,Rt,19,Unit
+2017,3,Pembinaan Rukun,3.1,,Rw,6,Unit
+2017,4,Pelayanan Masyarakat,4.1,,Pelayanan Umum,108,Orang
+2017,4,Pelayanan Masyarakat,4.1,,Pelayanan Kependudukan,25,Orang
+2017,4,Pelayanan Masyarakat,4.1,,Pelayanan Legalisasi,11,Orang
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Sisa Anggaran tahun lalu,"1,602,482",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Pendapatan Asli Desa,"63,950,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,"ADD, Pusat, Provinsi, Kab. Dan Hibah","1,404,411,643",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Pemerintah Desa,"287,526,243",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Modal,"9,800,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Sarana Prasarana Pemb.,"1,003,255,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Bidang Pembinaan Masyarakt,"40,680,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Belanja Bidang Pemberd Masyarakat,"136,000,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.1,Keuangan,Bidang Tak Terduga,"900,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Tanah Kas Desa dan Bengkok,"45,750,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,UED-SP dan Batik Kebon Indah,"2,700,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Pungutan,,Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Swadaya Masyarakat,"15,000,000",Rupiah
+2017,5,Keuangan dan Pendapatan Desa,5.2,Sumber Pendapatan Asli Desa,Lain-lain,"500,000",Rupiah
+2017,6,Bantuan Pemerintah,6.1,Pemerintah Pusat,,"644,655,000",Rupiah
+2017,6,Bantuan Pemerintah,6.1,Pemerintah Propinsi,,"255,000,000",Rupiah
+2017,6,Bantuan Pemerintah,6.1,Pemerintah Kabupaten dan Hibah,,"151,000,000",Rupiah
+2017,6,Bantuan Pemerintah,6.1,Hasil Pajak dan Retribusi Kab,,"18,695,643",Rupiah
+2017,7,Bidang Pembangunan,7.1,Agama,Masjid,8,Unit
+2017,7,Bidang Pembangunan,7.1,Agama,Mushola,1,Unit
+2017,7,Bidang Pembangunan,7.1,Agama,Gereja,1,Unit
+2017,7,Bidang Pembangunan,7.1,Agama,Vihara,,Unit
+2017,7,Bidang Pembangunan,7.1,Agama,Pura,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Umum Pemerintah,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Swasta,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Kusta,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Mata,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Jiwa,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Sanatorium,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Jantung,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Rumah Sakit Beralin,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Poliklinik/Balai Pelayanan Masyarakat,1,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Laboratorium,,Unit
+2017,7,Bidang Pembangunan,7.2,Kesehatan,Apotek/Depot Obat,,Unit
+2017,8,Pendidikan Umum,8.1,TK,Gedung,2,Unit
+2017,8,Pendidikan Umum,8.1,TK,Guru,7,Orang
+2017,8,Pendidikan Umum,8.1,TK,Murid,50,Orang
+2017,8,Pendidikan Umum,8.2,SD/MI,Gedung,2,Unit
+2017,8,Pendidikan Umum,8.2,SD/MI,Guru,18,Orang
+2017,8,Pendidikan Umum,8.2,SD/MI,Murid,203,Orang
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Sepak Bola,1,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Basket,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Voly,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Bulutangkis,2,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Tenis Meja,3,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Tenis,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Atletik,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Pacuan Kuda,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Golf,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Lapangan Softbal,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Kolam Renang,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Arena Bowling,,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Fitnes/Sanggar Senam,2,Unit
+2017,9,Sarana Prasarana,9.1,Olahraga,Rumah Bilyard,,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Sarana Krida,,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gelanggang Remaja,1,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gedung Kesenian,,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gedung Bioskop,,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Diskotik/Klub Malam,,Unit
+2017,9,Sarana Prasarana,9.2,Kesenian/Kebudayaan,Gd. Sandiwara/ Teater,,Unit
+2017,9,Sarana Prasarana,9.3,Sosial,Panti Asuhan,,Unit
+2017,9,Sarana Prasarana,9.3,Sosial,Panti Wreda,,Unit
+2017,9,Sarana Prasarana,9.3,Sosial,Panti Laras,,Unit
+2017,9,Sarana Prasarana,9.3,Sosial,Panti Pijat Jompo,,Unit
+2017,9,Sarana Prasarana,9.3,Sosial,Rumah Jompo,,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Dusun,8,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Desa,3,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Ekonomi,2,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Produksi,1,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Kabupaten,,Unit
+2017,9,Sarana Prasarana,9.4,Jalan,Propinsi,,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Jembatan,1,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Stasiun Kereta Api,,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Terminal,,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Udara,,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Laut,,Unit
+2017,9,Sarana Prasarana,9.5,Perhubungan,Pelabuhan Sungai,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Kantor Postel,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Kantor Pos Pembantu,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Pemancar Radio,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Stasiun Rellay TV,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Orari,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Krap,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Intercom,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,TV Umum,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Telepon Umum,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Pesawat Telepon/ HP,345,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Pesawat TV,220,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Pesawat Radio,50,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Decorder TV Swasta,,Unit
+2017,9,Sarana Prasarana,9.6,Telekomunikasi,Antena Parabola,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Sepeda,617,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Dokar/Delman,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Gerobak,8,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Kendaraan Roda 3,1,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Sepeda Motor,283,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Becak,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Oplet,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Taksi,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Mobil Dinas,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Mobil Pribadi,10,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Bus Kota,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Bus Umum,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Truk,2,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Perahu Layar,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Perahu Dayung,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Perahu Motor,,Unit
+2017,9,Sarana Prasarana,9.7,Alat Transportasi,Lain-lain,,Unit
+2017,9,Sarana Prasarana,9.8,Industri,Besar,,Unit
+2017,9,Sarana Prasarana,9.8,Industri,Sedang,,Unit
+2017,9,Sarana Prasarana,9.8,Industri,Kecil,1,Unit
+2017,9,Sarana Prasarana,9.8,Industri,Rumah Tangga,132,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Tempat Rekreasi,,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Hotel,,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Motel,,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Losmen,,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Restauran,,Unit
+2017,9,Sarana Prasarana,9.9,Pariwisata,Musium Sejarah,,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Waduk/Cekdam,,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Saluran Irigasi,3,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Gorong-gorong,17,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Pompa Air,4,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Pembagi Air,3,Unit
+2017,9,Sarana Prasarana,9.11,Pengairan,Kincir Air,,Unit
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Padi,40.764,Ha
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Jagung,4,Ha
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Ketela Pohon,5,Ha
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Ketela Rambat,,Ha
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Kacang Tanah,,Ha
+2017,10,Luas Pertanian,10.1,Padi dan Palawija,Kedelai,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Kubis,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Kentang,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Sawi,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Tomat,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Wortel,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Kacang Panjang,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Terong,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Buncis,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Lombok,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Bawang Merah,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Bawang Putih,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Ketimun,,Ha
+2017,10,Luas Pertanian,10.2,Sayur,Lain-lain,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Pisang,2,Ha
+2017,10,Luas Pertanian,10.3,Buah,Pepaya,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Jeruk,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Semangka,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Mangga,5,Ha
+2017,10,Luas Pertanian,10.3,Buah,Durian,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Duku,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Jambu,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Rambutan,1,Ha
+2017,10,Luas Pertanian,10.3,Buah,Sirsak,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Apel,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Anggur,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Salak,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Blimbing,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Kelengkeng,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Kendondong,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Melon,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Alpokat,,Ha
+2017,10,Luas Pertanian,10.3,Buah,Lain-lain,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Kelapa,4,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Kopi,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Teh,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Coklat,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Karet,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Cengkeh,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Tembakau,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Panili,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Lada,,Ha
+2017,10,Luas Pertanian,10.4,Perkebunan,Lain-lain,,Ha
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Padi,210,Ton
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Jagung,22,Ton
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Ketela Pohon,20,Ton
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Ketela Rambat,,Ton
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Kacang Tanah,,Ton
+2017,11,Hasil Petanian,11.1,Padi dan Palawija,Kedelai,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Kubis,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Kentang,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Sawi,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Tomat,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Wortel,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Kacang Panjang,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Terong,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Buncis,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Lombok,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Bawang Merah,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Bawang Putih,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Ketimun,,Ton
+2017,11,Hasil Petanian,11.2,Sayur,Lain-lain,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Pisang,4,Ton
+2017,11,Hasil Petanian,11.3,Buah,Pepaya,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Jeruk,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Semangka,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Mangga,10,Ton
+2017,11,Hasil Petanian,11.3,Buah,Durian,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Duku,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Jambu,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Rambutan,3,Ton
+2017,11,Hasil Petanian,11.3,Buah,Sirsak,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Apel,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Anggur,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Salak,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Blimbing,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Kelengkeng,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Kendondong,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Melon,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Alpokat,,Ton
+2017,11,Hasil Petanian,11.3,Buah,Lain-lain,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Kelapa,6,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Kopi,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Teh,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Coklat,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Karet,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Cengkeh,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Tembakau,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Panili,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Lada,,Ton
+2017,11,Hasil Petanian,11.4,Perkebunan,Lain-lain,,Ton
+2017,12,Taman dan Lingkungan Hidup,12.1,Taman,Luas Taman,,Ha
+2017,12,Taman dan Lingkungan Hidup,12.1,Taman,Banyak Taman,,Ha
+2017,12,Taman dan Lingkungan Hidup,12.1,Taman,Jalur Hijau,,Ha
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Lokasi TPS,,Unit
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Lokasi TPA,,Ha
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Volume Sampah,,m3
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Sarana Angkutan Sampah,,Unit
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Personil,673,Orang
+2017,12,Taman dan Lingkungan Hidup,12.2,Kebersihan,Sanitasi,,Unit
+2017,13,Luas Perikanan,13.1,Perikanan,Tambak,,Ha
+2017,13,Luas Perikanan,13.1,Perikanan,Empang,0.3,Ha
+2017,13,Luas Perikanan,13.1,Perikanan,Kolam,,Ha
+2017,13,Luas Perikanan,13.1,Perikanan,Danau,,Ha
+2017,13,Luas Perikanan,13.1,Perikanan,Waduk/Cekdam,,Ha
+2017,13,Luas Perikanan,13.1,Perikanan,Laut,,Ha
+2017,14,Hasil Perikanan,14.1,Perikanan,Tambak,,Ton
+2017,14,Hasil Perikanan,14.1,Perikanan,Empang,1.2,Ton
+2017,14,Hasil Perikanan,14.1,Perikanan,Kolam,,Ton
+2017,14,Hasil Perikanan,14.1,Perikanan,Danau,,Ton
+2017,14,Hasil Perikanan,14.1,Perikanan,Waduk/Cekdam,,Ton
+2017,14,Hasil Perikanan,14.1,Perikanan,Laut,,Ton
+2017,15,Peternakan,15.1,Ternak,Ayam Kampung,1875,Ekor
+2017,15,Peternakan,15.1,Ternak,Ayam Ras,,Ekor
+2017,15,Peternakan,15.1,Ternak,Itik,1200,Ekor
+2017,15,Peternakan,15.1,Ternak,Kambing,135,Ekor
+2017,15,Peternakan,15.1,Ternak,Domba,,Ekor
+2017,15,Peternakan,15.1,Ternak,Sapi Perah,,Ekor
+2017,15,Peternakan,15.1,Ternak,Sapi Biasa,125,Ekor
+2017,15,Peternakan,15.1,Ternak,Kerbau,,Ekor
+2017,15,Peternakan,15.1,Ternak,Kuda,,Ekor
+2017,15,Peternakan,15.1,Ternak,Babi,,Ekor
+2017,15,Peternakan,15.1,Ternak,Buaya,,Ekor
+2017,15,Peternakan,15.1,Ternak,Lain-lain,,Ekor
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Jati,20,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Miranti,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Eboni,5,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Besi,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Kamper,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Cendana,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Albasia,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Akasia,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Aoni,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Cemra,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Lamtoro Gung,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Enau,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Randu,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Kayu Rotan,,Ha
+2017,16,Kehutanan,16.1,Jenis Tanaman,Lain-lain,15,Ha
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Pasir,,m3
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Pasir Kuarsa,,m4
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Apung,,m5
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Kali,,m6
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Batu Bangunan,,m7
+2017,17,Pertambangan Bahan Galian,17.1,Jenis Tambang,Lain-lain,,m8
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Pasar Lingkungan,,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Pasar Kota,,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Pasar Regional,,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Pasar Induk,,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Toko,,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Warung,18,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Kaki Lima,4,Unit
+2017,18,Perdagangan Jasa,18.1,Perdagangan,Supermarket,,Unit
+2017,18,Perdagangan Jasa,18.2,Jasa,Bank,,Unit
+2017,18,Perdagangan Jasa,18.2,Jasa,Travel,,Unit
+2017,18,Perdagangan Jasa,18.2,Jasa,Notaris,,Unit
+2017,18,Perdagangan Jasa,18.2,Jasa,Pengacara,3,Unit
+2017,18,Perdagangan Jasa,18.2,Jasa,Psikolog,,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Koperasi Simpan Pinjam,,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Koperasi Unit Desa,,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Lumbung Desa,1,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Kredit Candak Kulak,,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Badan kredit,,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Usaha Ekonomi Desa,4,Unit
+2017,18,Perdagangan Jasa,18.3,Koperasi,Lain-lain,,Unit
+2017,19,Perumahan,19.1,Perumahan,Rumah Permanen,625,Unit
+2017,19,Perumahan,19.1,Perumahan,Rumah Semi Permanen,175,Unit
+2017,19,Perumahan,19.1,Perumahan,Rumah Non Permanen,89,Unit
+2017,19,Perumahan,19.1,Pemukiman,BTN,,Unit
+2017,19,Perumahan,19.1,Pemukiman,Real Estate,,Unit
+2017,19,Perumahan,19.1,Pemukiman,PERUMNAS,,Unit
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Sepakbola,1,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Basket,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Volly,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Bulutangkis,2,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Tenis Meja,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Atletik,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Tinju,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Pencak Silat,1,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Karate,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Tenis Meja,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Renang,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Bowling,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Fitnes/Sanggar Senam,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Bilyard,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Golf,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Sepak Takraw,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Yudo,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Gulat,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Kempo,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Pecinta Alam,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Jantung Sehat,,Kelompok
+2017,20,Kelompok Masyarakat,20.1,Olahraga,Sepatu Roda,,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Paduan Suara,,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Orkes Melayu,,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kesenian Daerah,3,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Band,,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kdondong,,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Kosidah,2,Kelompok
+2017,20,Kelompok Masyarakat,20.2,Kesenian/Kebudayaan,Wayang,,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,Pramuka,,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,Karang Taruna,,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,Panti Laras,,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,LSM,,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,PKK,60,Kelompok
+2017,20,Kelompok Masyarakat,20.3,Masyarakat,Dasa Wisma,90,Kelompok
